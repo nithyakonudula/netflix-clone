@@ -2,9 +2,6 @@
 
 A responsive Netflix landing page clone built using **HTML5** and **CSS3**. This project recreates the look and feel of the Netflix homepage while practicing responsive web design and frontend development.
 
-## 🚀 Live Demo
-
-🔗 https://nithyakonudula.github.io/netflix-clone/
 
 ## 📂 Repository
 
